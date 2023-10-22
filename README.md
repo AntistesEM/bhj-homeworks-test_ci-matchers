@@ -1,5 +1,8 @@
 # Домашнее задание к лекции «Unit-тестирование»
 
+[![Build status](https://ci.appveyor.com/api/projects/status/vnenn5amm9hq3y61?svg=true)](https://ci.appveyor.com/project/AntistesEM/bhj-homeworks-test-ci-matchers)
+
+
 **Важно**: каждая задача выполняется в виде отдельного проекта с собственным GitHub репозиторием.
 
 **Важно**: ESLint не должен выдавать ошибок.
